@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: About
 ---
-
-## About
 
 Hi, I'm Vinay Gupta, a **masters student in Computer Science at USC**. Video games hold a special place in my heart, and I recently (or perhaps, finally!) switched my career focus to game development!
 

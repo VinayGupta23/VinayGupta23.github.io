@@ -19,11 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Vinay Gupta
-email: "vinayg@usc.edu"
+email: "vinay.23.gupta@outlook.com"
 description: Personal website and portfolio of projects in game development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: vinay_gupta_23
 github_username:  VinayGupta23
 linkedin_username: VinayGupta23
 
