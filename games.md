@@ -6,7 +6,7 @@ permalink: /games/
 
 # [Alter Ego](https://vinaygupta23.itch.io/alter-ego)
 
-[Play]((https://vinaygupta23.itch.io/alter-ego)){: .popup-button}
+[Play](https://vinaygupta23.itch.io/alter-ego){: .popup-button}
 
 > A 2-D platformer where you manage a player and its clones to solve puzzles
 
