@@ -4,11 +4,9 @@ title: Games
 permalink: /games/
 ---
 
-# [Alter Ego](https://vinaygupta23.itch.io/alter-ego)
+# Alter Ego
 
-{% include button.html content="Play" url="https://vinaygupta23.itch.io/alter-ego" %}
-
-> A 2-D platformer where you manage a player and its clones to solve puzzles
+*A 2-D platformer where you manage a player and its clones to solve puzzles*
 
 ![AlterEgo](alterego.png)
 
@@ -25,9 +23,11 @@ Team management:
  - Task planning & meeting cadence
  - Code review and best practices
 
-# [SpellCrafter](https://globalgamejam.org/2023/games/spell-crafter-0)
+{% include button.html content="Play" url="https://vinaygupta23.itch.io/alter-ego" %}
 
-> Developed in 72 hours for Global Game Jam 2023
+# SpellCrafter
+
+*Developed in 72 hours for [Global Game Jam 2023](https://globalgamejam.org/2023/games/spell-crafter-0)*
 
 ![SpellCrafter](ggj.png)
 
@@ -37,3 +37,5 @@ Contributions:
  - [GDD authoring](https://docs.google.com/document/d/1bpgvqLUAh2KFm38x1B09lKZv8ziRAPY3x0u9LvHuLNY/edit?usp=sharing)
  - Level design & scaffolding
  - Tornado spell programming (physics & particle system)
+
+{% include button.html content="Play" url="https://vinaygupta23.itch.io/spell-crafter" %}
