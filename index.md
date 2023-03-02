@@ -5,13 +5,12 @@
 layout: home
 ---
 
-# About
+## About
 
 Hi, I'm Vinay Gupta, a **masters student in Computer Science at USC**. Video games hold a special place in my heart, and I recently (or perhaps, finally!) switched my career focus to game development!
 
 This work-in-progress site hosts my **personal portfolio** of projects and endeavours in the field of gaming. If you're interested to connect with me, contact me using the options below!
 
-<BR>
 <HR>
 <BR>
 
