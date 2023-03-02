@@ -20,7 +20,7 @@
 
 title: Vinay Gupta
 email: "vinayg@usc.edu"
-description: Personal website and portfolio of projects in recent years!
+description: Personal website and portfolio of projects in game development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vinay_gupta_23
@@ -31,6 +31,10 @@ linkedin_username: VinayGupta23
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+ - games.md
+ - projects.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
