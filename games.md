@@ -8,6 +8,8 @@ permalink: /games/
 
 *A 2-D platformer where you manage a player and its clones to solve puzzles*
 
+{% include chip.html tag="C#" %} {% include chip.html tag="Unity" %} {% include chip.html tag="Game Design" %}
+
 ![AlterEgo](alterego.png)
 
 Developed for a course project over a span of 3 months with a team of 8! I was the team lead and made the following technical contributions:
@@ -25,9 +27,11 @@ Team management:
 
 {% include button.html content="Play" url="https://vinaygupta23.itch.io/alter-ego" %}
 
-# SpellCrafter
+# Spell Crafter
 
 *Developed in 72 hours for [Global Game Jam 2023](https://globalgamejam.org/2023/games/spell-crafter-0)*
+
+{% include chip.html tag="C#" %} {% include chip.html tag="Unity" %} {% include chip.html tag="Level Design" %}
 
 ![SpellCrafter](ggj.png)
 
