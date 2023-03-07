@@ -22,6 +22,6 @@ Features worked on:
 ![XR-SIGGRAPH-23](sg23_paper.jpg)
 
 Working part-time under a PhD student as an engineer to help improve interactions in XR.
- - Port input controller from device-based to [action-based system](https://github.com/powenyao/XR-Interaction-Toolkit-Examples/wiki/Design:-Locomotion-System)
- - Implemented [state machine and input manager](https://github.com/powenyao/XR-Interaction-Toolkit-Examples/wiki/Design:-Controller-Manager) for customizable locomotion
- - Helped develop a demo for submission to [SIGGRAPH 2023](https://s2023.siggraph.org/program/immersive-pavilion/)
+ - Port input controller from device-based to <a target="_blank" href="https://github.com/powenyao/XR-Interaction-Toolkit-Examples/wiki/Design:-Locomotion-System">action-based system</a>
+ - Implemented <a target="_blank" href="https://github.com/powenyao/XR-Interaction-Toolkit-Examples/wiki/Design:-Controller-Manager">state machine and input manager</a> for customizable locomotion
+ - Helped develop a demo for submission to <a target="_blank" href="https://s2023.siggraph.org/program/immersive-pavilion/">SIGGRAPH 2023</a>

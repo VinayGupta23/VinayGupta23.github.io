@@ -1,1 +1,7 @@
-<a class="popup-button" href="{{ include.url }}" target="_blank">{{ include.content }}</a>
+{% if include.type == "primary" %}
+<a class="primary-button" href="{{ include.url }}" target="_blank">{{ include.content }}</a>
+{% elsif include.type == "secondary" %}
+<a class="secondary-button" href="{{ include.url }}" target="_blank">{{ include.content }}</a>
+{% else %}
+<a href="{{ include.url }}" target="_blank">{{ include.content }}</a>
+{% endif %}

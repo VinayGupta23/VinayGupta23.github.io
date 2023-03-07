@@ -19,25 +19,45 @@
 }
 
 .post-content h1 {
-    color: #CC0000;
+    // color: #CC0000;
+    color: #d24040;
     margin-top: 30px;
     margin-bottom: 7px;
     font-weight: 600;
 }
 
-.popup-button {
+.primary-button, .secondary-button {
     padding: 5px 10px;
-    background-color: #d24040;
-    color: #FFFFFF !important;
+    margin-bottom: 10px;
+    display: inline-block;
     border-radius: 5px;
     text-decoration: none !important;
     font-style: normal !important;
-    margin-bottom: 10px;
-    display: inline-block;
+    color: #FFFFFF !important;
 }
 
-.popup-button:hover {
+.primary-button {
+    background-color: #d24040;
+}
+
+.primary-button:hover {
     background-color: #a63a3a;
+}
+
+.secondary-button {
+    background-color: #383838;
+}
+
+.secondary-button:hover {
+    background-color: #2c2c2c;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    padding: 0px;
+    gap: 7px;
 }
 
 .chip {
@@ -47,4 +67,40 @@
     font-size: 0.8rem;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.two-column-cards {
+    display: flex;
+    width: 100%;
+    gap: 20px;
+}
+
+@include media-query($on-palm) {
+    .two-column-cards {
+        flex-direction: column;
+    }
+}
+
+.two-column-cards > * {
+    flex: 1;
+    padding: 12px 18px;
+    background-color: #F1F1F1;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+.two-column-cards h3 {
+    // color: #CC0000;
+    color: #d24040;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.two-column-cards p {
+    margin-top: 12px
+}
+
+.site-header {
+    border-top: 3.5px solid $grey-color-dark;
+    border-bottom: 1.5px solid $grey-color-light;
 }
