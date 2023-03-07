@@ -21,7 +21,7 @@ This work-in-progress site hosts my **personal portfolio** of endeavours in the 
         {% include chip.html tag="OOP" %}
         {% include chip.html tag="Multithreading" %}
         {% include chip.html tag="SIMD" %}
-        <p>Worked on 5G protocol stack that, like games, runs frame-to-frame, on multi-core systems, using event-driven architecture and SIMD processing. For instance, I implemented custom memory allocators (bitmap-based, ring buffers), and resolved complex race conditions using atomic operations.</p>
+        <p>Worked on 5G protocol stack that, like games, runs frame-to-frame, on multi-core systems, using <strong>event-driven architecture</strong> and SIMD processing. For instance, I implemented custom <strong>memory allocators</strong> (bitmap-based, ring buffers), and resolved <strong>complex race conditions</strong> using atomic operations.</p>
     </div>
     <div>
         <h3>Tools (2 years)</h3>
@@ -30,7 +30,7 @@ This work-in-progress site hosts my **personal portfolio** of endeavours in the 
         {% include chip.html tag="UX" %}
         {% include chip.html tag="CI/CD" %}
         {% include chip.html tag="Perforce" %}
-        <p>Keen on improving things around me and aiding productivity, I've worked on test automation workflows; dependency analysis to optimize build sizes; bug detection using state machines; and version control scripting & mentoring.</p>
+        <p>Keen on improving things around me and <strong>aiding productivity</strong>, I've worked on test automation workflows; dependency analysis to optimize build sizes; bug detection using state machines; and version control scripting & mentoring.</p>
     </div>
 </div>
 

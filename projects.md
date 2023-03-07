@@ -19,7 +19,7 @@ Features worked on:
 
 {% include chip.html tag="C#" %} {% include chip.html tag="Unity" %} {% include chip.html tag="Oculus" %}
 
-![XR-SIGGRAPH-23](sg23_paper.jpg)
+![VR Spatial Interaction Teaser](/media/VRDemo.jpg)
 
 Working part-time under a PhD student as an engineer to help improve interactions in XR.
  - Port input controller from device-based to <a target="_blank" href="https://github.com/powenyao/XR-Interaction-Toolkit-Examples/wiki/Design:-Locomotion-System">action-based system</a>

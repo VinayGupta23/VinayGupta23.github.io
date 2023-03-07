@@ -13,7 +13,7 @@ permalink: /games/
 {% include chip.html tag="Tilemaps" %}
 {% include chip.html tag="Puzzle Design" %}
 
-![AlterEgo](alterego.png)
+![Alter Ego Teaser](/media/AlterEgoTeaser.gif)
 
 Developed for a course project over a span of 3 months with a team of 8! I was the team lead and made the following technical contributions:
  - Core loop design & GDD organization
@@ -41,7 +41,7 @@ Team management:
 {% include chip.html tag="Unity" %}
 {% include chip.html tag="Level Design" %}
 
-![SpellCrafter](ggj.png)
+![Spell Crafter Teaser](/media/SpellCrafterTeaser.gif)
 
 Partake in a training program to craft various spells and practice them on targets in a challenging training arena. This game is about using your wits to maximize spell efficiency.
 
