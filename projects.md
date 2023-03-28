@@ -13,6 +13,23 @@ Features worked on:
  - **View frustum culling** based on OBB tests with FOV planes
  - Basic physics thread with **collision detection** for sphere and box colliders
 
+
+# Atmospheric Flying Game
+*On-going passion project, inspired by the Banshee from the Halo series*
+
+{% include chip.html tag="C#" %} {% include chip.html tag="Spaceship Controller" %} {% include chip.html tag="Third-Person Camera" %}
+
+<iframe class="video-container" frameborder="0" src="https://drive.google.com/file/d/1s8ia3XyrJJt63c1i8VlwOrdGrAegNhWJ/preview" width="100%" allow="autoplay"></iframe>
+
+Work done in current phase:
+ - Programmed controller with ability to boost, turn, drift, and perform **evasive maneuvers**.
+ - Implemented **modular "smooth follow" component** for third-person camera.
+ - Added **motion-based tilt** (roll) to achieve the right "feel".
+
+Work planned for next phase:
+ - Support for complex kinematics such as partial damage, knockback from collisions, etc.
+ - Expanded terrain and particle effects for exhaust
+
 # VR Research Volunteer
 
 *Exploring new user interactions beyond 2D menus*
