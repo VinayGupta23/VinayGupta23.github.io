@@ -19,7 +19,7 @@ Features worked on:
 
 {% include chip.html tag="C#" %} {% include chip.html tag="Spaceship Controller" %} {% include chip.html tag="Third-Person Camera" %}
 
-<iframe class="video-container" frameborder="0" src="https://drive.google.com/file/d/1s8ia3XyrJJt63c1i8VlwOrdGrAegNhWJ/preview" width="100%" allow="autoplay"></iframe>
+<iframe class="video-container" width="100%" frameborder="0" allow="autoplay" src="https://www.youtube.com/embed/vKb3PywNiMI?mute=1&rel=0" allowfullscreen></iframe>
 
 Work done in current phase:
  - Programmed controller with ability to boost, turn, drift, and perform **evasive maneuvers**.
