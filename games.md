@@ -33,6 +33,9 @@ Team management:
 {% include button.html type="secondary" content="View Code" url="https://github.com/vinayg-usc/alter-ego-game" %}
 </div>
 
+<BR>
+<HR>
+
 # Spell Crafter
 
 *Developed in 72 hours for <a target="_blank" href="https://globalgamejam.org/2023/games/spell-crafter-0">Global Game Jam 2023</a>*

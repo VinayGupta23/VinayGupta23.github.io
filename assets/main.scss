@@ -116,3 +116,30 @@
 .space-on-top {
     margin-top: 30px;
 }
+
+.quick-links-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+@include media-query($on-palm) {
+    .quick-links-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+.quick-links-container a {
+    color: #111;
+}
+
+.quick-links-container a:hover {
+    text-decoration: none;
+}
+
+.quick-links-container h3 {
+    margin-top: 7px;
+    color: #d24040;
+    font-weight: 600;
+    margin-bottom: 0px;
+}

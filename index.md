@@ -5,13 +5,31 @@
 layout: home
 ---
 
-![Portfolio Teaser](/media/PortfolioTeaser.gif)
-
-<h2 class="space-on-top">About</h2>
+<h2>About</h2>
 
 Hi, I'm Vinay Gupta, a **masters student in Computer Science at USC**. Video games hold a special place in my heart, and I recently (or perhaps, finally!) switched my career focus to game development!
 
-This work-in-progress site hosts my personal portfolio of endeavours in the field of gaming. If you're interested to connect, contact me using the options in the footer below.
+This site hosts my personal portfolio of endeavours in game development. If you're interested to connect, please contact me using the options in the footer below :)
+
+<h2 class="space-on-top">Top projects</h2>
+
+<div class="quick-links-container">
+    <a class="card" href="/projects#stealth-system">
+        <img src="/media/StealthSystemThumbnail.gif" />
+        <h3>Stealth System</h3>
+        <p>Engine / Gameplay components for cover interaction, stealth and AI!</p>
+    </a>
+    <a class="card" href="/projects#sci-fi-spaceship-controller">
+        <img src="/media/FlightControllerThumbnail.gif" />
+        <h3>Sci-Fi Spaceship Controller</h3>
+        <p>Passion project inspired by the Banshee from Halo.</p>
+    </a>
+    <a class="card" href="/games#alter-ego">
+        <img src="/media/AlterEgoThumbnail.gif" />
+        <h3>Alter Ego</h3>
+        <p>Manage clones in this puzzle-platformer with 30+ levels!</p>
+    </a>
+</div>
 
 <h2 class="space-on-top">How does my prior experience help?</h2>
 
