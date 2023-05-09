@@ -45,11 +45,13 @@ Features developed:
 Work done in current phase:
  - Programmed controller with ability to boost, turn, drift, and perform **evasive maneuvers**.
  - Implemented **modular "smooth follow" component** for third-person camera.
- - Added **motion-based tilt** (roll) to achieve the right "feel".
+ - Added **motion-based tilt** (roll) and thruster particle FX to achieve good "feel".
 
 Work planned for next phase:
  - Support for complex kinematics such as partial damage, knockback from collisions, etc.
- - Expanded terrain and particle effects for exhaust
+ - Expanded terrain and explosion effects when crashing
+
+{% include button.html type="secondary" content="View Code" url="https://github.com/VinayGupta23/space-flight-controller/tree/main/Assets/Scripts" %}
 
 <BR>
 <HR>
@@ -63,6 +65,6 @@ Work planned for next phase:
 ![VR Spatial Interaction Teaser](/media/VRDemo.jpg)
 
 Working part-time under a PhD student as an engineer to help improve interactions in XR.
- - Port input controller from device-based to <a target="_blank" href="https://github.com/powenyao/XR-Interaction-Toolkit-Examples/wiki/Design:-Locomotion-System">action-based system</a>
- - Implemented <a target="_blank" href="https://github.com/powenyao/XR-Interaction-Toolkit-Examples/wiki/Design:-Controller-Manager">state machine and input manager</a> for customizable locomotion
- - Helped develop a demo for submission to <a target="_blank" href="https://s2023.siggraph.org/program/immersive-pavilion/">SIGGRAPH 2023</a>
+ - Port input controller from device-based to action-based system with support for runtime customization: <a target="_blank" href="https://github.com/powenyao/XR-Interaction-Toolkit-Examples/wiki/Design:-Locomotion-System">[Design Doc]</a>
+ - Implemented state machine and input manager for choosing locomotion based on virtual wearables: <a target="_blank" href="https://github.com/powenyao/XR-Interaction-Toolkit-Examples/wiki/Design:-Controller-Manager">[Design Doc]</a>
+ - Helped develop a wave-based target practice demo for submission to SIGGRAPH 2023
