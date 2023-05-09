@@ -4,15 +4,23 @@ title: Projects
 permalink: /projects/
 ---
 
-# Game Engine Development
-*Implementing new features on reference engine (ongoing coursework)*
+# Game Engine Development: Stealth System
+*Individual capstone project for a course at USC*
   
-{% include chip.html tag="C++" %} {% include chip.html tag="3D Math" %} {% include chip.html tag="Collision Detection" %} {% include chip.html tag="Animation FSM" %}
+{% include chip.html tag="C++" %} {% include chip.html tag="Collision Detection" %} {% include chip.html tag="Nav Mesh" %} {% include chip.html tag="Third-Person" %}
 
-<!-- <iframe class="container-mb container-video" width="100%" frameborder="0" src="https://www.youtube.com/embed/J__xEZApP_M?rel=0&controls=0&disablekb=1&fs=0&mute=1&playlist=J__xEZApP_M&autoplay=1&&loop=1&modestbranding=1"></iframe> -->
-
-<video muted controls autoplay loop controlslist="nodownload"
+<video muted autoplay loop controlslist="nodownload"
     class="container-mb" width="100%">
+    <source src="/media/StealthSystemDemo.mp4" type="video/mp4">
+</video>
+
+<video muted autoplay loop controlslist="nodownload"
+    class="container-mb" width="50%">
+    <source src="/media/NavMeshDemo.mp4" type="video/mp4">
+</video>
+
+<video muted autoplay loop controlslist="nodownload"
+    class="container-mb" width="50%">
     <source src="/media/RootMotionDemo.mp4" type="video/mp4">
 </video>
 
