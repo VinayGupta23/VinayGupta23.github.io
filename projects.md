@@ -26,6 +26,8 @@ permalink: /projects/
     <source src="/media/RootMotionDemo.mp4" type="video/mp4">
 </video> -->
 
+{% include button.html type="secondary" content="Full Video" url="https://drive.google.com/file/d/1hQ3GftrILd1ztSX-6a10aKRD28uTSrpC/view?usp=sharing" %}
+
 Features developed:
  - **Player Controller & Cover System:** Design API to detect valid reachable covers by turn/sneak maneuvers using neighbor search and backface culling tests.
  - **Nav Mesh & AI:** Develop an automatic nav mesh generation pipeline for orthogonal level layout using contour/polygon generation and edge-graph formulation. Implement A* with funnel smoothing for effective NPC behavior.
