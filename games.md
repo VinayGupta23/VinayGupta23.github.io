@@ -30,7 +30,7 @@ Team management:
 
 <div class="button-container">
 {% include button.html type="primary" content="Play" url="https://vinaygupta23.itch.io/alter-ego" %}
-{% include button.html type="secondary" content="View Code" url="https://github.com/vinayg-usc/alter-ego-game" %}
+{% include button.html type="secondary" content="View Code" url="https://github.com/VinayGupta23/alter-ego-game" %}
 </div>
 
 <BR>
