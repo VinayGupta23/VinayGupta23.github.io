@@ -4,6 +4,27 @@ title: Games
 permalink: /games/
 ---
 
+# Tony Hawk Pro Skater 3+4
+
+<div class="two-column-cards">
+    <div>
+        <h3>Online Multiplayer Features</h3>
+        <p>Client-side prediction with server corrections for hiding and collecting letters, for 8 players.</p>
+        <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1084492703746144%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
+    <div>
+        <h3>Performance & Optimization</h3>
+        <p>Smartly queue camera positions from future goal cutscenes to fix LOD popping. Handles corner cases, such as cutscene skips.</p>
+        <video muted autoplay loop controlslist="nodownload" class="container-mb" width="100%">
+            <source src="/media/THPS-Pred-Streamer.mp4" type="video/mp4">
+        </video>
+    </div>
+</div>
+
+<div class="button-container">
+{% include button.html type="primary" content="Store Page" url="https://www.activision.com/games/tony-hawk/tony-hawks-pro-skater-3-4" %}
+</div>
+
 # Alter Ego
 
 *A 2-D platformer where you manage a player and its clones to solve puzzles*
