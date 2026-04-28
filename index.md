@@ -14,6 +14,16 @@ If you're interested to connect, please contact me using the options in the foot
 <h2 class="space-on-top">Top projects</h2>
 
 <div class="quick-links-container">
+    <a class="card" href="/games#tony-hawk-pro-skater-34">
+        <img src="/media/THPSThumbnail.gif" />
+        <h3>Tony Hawk Pro Skater 3+4</h3>
+        <p>AAA project as part of Iron Galaxy Studios! Role: Multiplayer, Performance, Stability.</p>
+    </a>
+    <a class="card" href="/games#call-of-duty-warzone">
+        <img src="/media/CODWarzoneThumbnail.gif" />
+        <h3>Call of Duty: Warzone</h3>
+        <p>AAA project as part of Iron Galaxy Studios! Role: Gameplay, Design Tooling.</p>
+    </a>
     <a class="card" href="/projects#stealth-system">
         <img src="/media/StealthSystemThumbnail.gif" />
         <h3>Stealth System</h3>
