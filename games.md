@@ -25,7 +25,14 @@ permalink: /games/
 
 # Call of Duty: Warzone
 
-*Under Construction!*
+Iterate on numerous gameplay systems & design tooling to support "dynamic danger zones", from concept to live service. Also contributed towards scaling Battle Royale mode to 100 players!
+
+<div class="quick-links-container">
+    <img class="card" src="/media/codw-design-tool-1.gif" />
+    <img class="card" src="/media/codw-design-tool-2.png" />
+</div>
+
+<iframe class="container-mb container-video" width="100%" frameborder="0" allow="autoplay" src="https://www.youtube.com/embed/GXKNmSZNvVQ?mute=1&rel=0&modestbranding=1&start=1105" allowfullscreen></iframe>
 
 # Alter Ego
 

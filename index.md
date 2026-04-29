@@ -11,9 +11,14 @@ Hi, I'm Vinay Gupta, a software developer with 7 years of experience and a Maste
 
 If you're interested to connect, please contact me using the options in the footer below :)
 
-<h2 class="space-on-top">Top projects</h2>
+<h2 class="space-on-top">Top contributions & projects</h2>
 
 <div class="quick-links-container">
+    <a class="card" href="/projects#enemy-ai-third-person-shooter">
+        <img src="/media/CombatAIThumbnail.jpeg" />
+        <h3>Combat AI Systems</h3>
+        <p>System architecture, enemy coordination & behaviors for unannounced third-person cover-shooter!</p>
+    </a>
     <a class="card" href="/games#tony-hawk-pro-skater-34">
         <img src="/media/THPSThumbnail.gif" />
         <h3>Tony Hawk Pro Skater 3+4</h3>
@@ -41,7 +46,7 @@ If you're interested to connect, please contact me using the options in the foot
     </a>
 </div>
 
-<h2 class="space-on-top">How does my prior experience help?</h2>
+<h2 class="space-on-top">How does my software experience outside of games help?</h2>
 
 <div class="two-column-cards">
     <div>
@@ -50,7 +55,7 @@ If you're interested to connect, please contact me using the options in the foot
         {% include chip.html tag="OOP" %}
         {% include chip.html tag="Multithreading" %}
         {% include chip.html tag="SIMD" %}
-        <p>I shipped features for the 5G protocol stack that runs frame-to-frame, using <strong>multithreaded event-driven architecture</strong> and SIMD processing - similar to games!</p>
+        <p>I shipped features for the 5G protocol stack that -- similar to games -- runs frame-to-frame, using <strong>multithreaded event-driven architecture</strong> and SIMD processing!</p>
     </div>
     <div>
         <h3>Tools (2 years)</h3>
@@ -63,4 +68,4 @@ If you're interested to connect, please contact me using the options in the foot
     </div>
 </div>
 
-I realize that many of these skills can translate to game development - but more than anything, I'm eager to learn and grow further!
+Many of these skills translate effectively to game development - but more than anything, I'm eager to learn and grow further!

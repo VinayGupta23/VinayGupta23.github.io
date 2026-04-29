@@ -3,6 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+# Enemy AI (Third-Person Shooter)
+*Under Construction!*
 
 # Stealth System
 *Individual capstone project chosen for "Game Engine Architecture" course*
