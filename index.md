@@ -14,11 +14,6 @@ If you're interested to connect, please contact me using the options in the foot
 <h2 class="space-on-top">Top contributions & projects</h2>
 
 <div class="quick-links-container">
-    <a class="card" href="/projects#enemy-ai-third-person-shooter">
-        <img src="/media/CombatAIThumbnail.jpeg" />
-        <h3>Combat AI Systems</h3>
-        <p>System architecture, enemy coordination & behaviors for unannounced third-person cover-shooter!</p>
-    </a>
     <a class="card" href="/games#tony-hawk-pro-skater-34">
         <img src="/media/THPSThumbnail.gif" />
         <h3>Tony Hawk Pro Skater 3+4</h3>
@@ -28,6 +23,11 @@ If you're interested to connect, please contact me using the options in the foot
         <img src="/media/CODWarzoneThumbnail.gif" />
         <h3>Call of Duty: Warzone</h3>
         <p>AAA project as part of Iron Galaxy Studios! Role: Gameplay, Design Tooling.</p>
+    </a>
+    <a class="card" href="/projects#enemy-ai-third-person-shooter">
+        <img src="/media/CombatAIThumbnail.jpeg" />
+        <h3>Combat AI Systems</h3>
+        <p>System architecture, enemy coordination & behaviors for unannounced third-person cover-shooter!</p>
     </a>
     <a class="card" href="/projects#stealth-system">
         <img src="/media/StealthSystemThumbnail.gif" />

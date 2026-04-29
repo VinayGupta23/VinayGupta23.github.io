@@ -6,6 +6,9 @@ permalink: /projects/
 # Enemy AI (Third-Person Shooter)
 *Under Construction!*
 
+<BR>
+<HR>
+
 # Stealth System
 *Individual capstone project chosen for "Game Engine Architecture" course*
 

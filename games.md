@@ -23,6 +23,9 @@ permalink: /games/
 {% include button.html type="primary" content="Store Page" url="https://www.activision.com/games/tony-hawk/tony-hawks-pro-skater-3-4" %}
 </div>
 
+<BR>
+<HR>
+
 # Call of Duty: Warzone
 
 Iterate on numerous gameplay systems & design tooling to support "dynamic danger zones", from concept to live service. Also contributed towards scaling Battle Royale mode to 100 players!
@@ -32,7 +35,12 @@ Iterate on numerous gameplay systems & design tooling to support "dynamic danger
     <img class="card" src="/media/codw-design-tool-2.png" />
 </div>
 
-<iframe class="container-mb container-video" width="100%" frameborder="0" allow="autoplay" src="https://www.youtube.com/embed/GXKNmSZNvVQ?mute=1&rel=0&modestbranding=1&start=1105" allowfullscreen></iframe>
+<BR>
+
+<iframe class="container-mb container-video" width="100%" frameborder="0" allow="autoplay" src="https://www.youtube.com/embed/GXKNmSZNvVQ?mute=1&rel=0&modestbranding=1&start=1110" allowfullscreen></iframe>
+
+<BR>
+<HR>
 
 # Alter Ego
 
