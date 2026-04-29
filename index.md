@@ -7,7 +7,7 @@ layout: home
 
 <h2>About</h2>
 
-Hi, I'm Vinay Gupta, a software developer with 7 years of experience and a Masters degree from USC. Video games hold a special place in my heart, and this page documents my new career focus in game development!
+Hi, I'm Vinay Gupta, a software developer with 7 years of experience and a Masters degree from USC. Enthusiastic about creating impactful experiences that are purposeful, I've dedicated the last four years pivoting to the games industry. Check out my portfolio below -- documenting both commercial contributions and personal projects!
 
 If you're interested to connect, please contact me using the options in the footer below :)
 
@@ -46,7 +46,7 @@ If you're interested to connect, please contact me using the options in the foot
     </a>
 </div>
 
-<h2 class="space-on-top">How does my software experience outside of games help?</h2>
+<h2 class="space-on-top">How does my experience outside of games help?</h2>
 
 <div class="two-column-cards">
     <div>
